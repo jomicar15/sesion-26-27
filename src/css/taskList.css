@@ -1,0 +1,39 @@
+*{
+    background-color: rgb(222, 255, 231);
+}
+
+.btn-eliminar{
+    margin-left: 5px;
+}
+.completed{
+    margin-left: 5px;
+}
+
+.uList{
+    list-style: none;
+    padding-left: 5px;
+
+}
+
+.yes-completed{
+    border-color: blue;
+    background-color: blue;
+    color: white;
+}
+
+.no-completed{
+    border-color: tomato;
+    background-color: tomato;
+    color: white;
+}
+
+.error{
+    color: tomato;
+}
+
+.form{
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    gap: 5px;
+}
